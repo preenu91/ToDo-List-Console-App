@@ -28,6 +28,7 @@ Choose an option from the menu:
 5. Exit
 > 1
 Enter a task: Buy groceries
+> 
 Task added successfully
 
  
