@@ -17,7 +17,7 @@ A simple console-based To-Do List application written in C++ using STL `vector`.
 
 3. Compile and run the project.
 
-4.Follow the on-screen menu to manage your tasks.
+4. Follow the on-screen menu to manage your tasks.
 
 ## Example Usage
 Choose an option from the menu:
