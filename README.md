@@ -11,12 +11,11 @@ A simple console-based To-Do List application written in C++ using STL `vector`.
 - Easy to use menu-driven interface
 
 ## How to Run
+1. Clone the repository
 
-1. Clone the repository:
+2. Open the project in Visual Studio or your preferred IDE.
 
-2.Open the project in Visual Studio or your preferred IDE.
-
-3.Compile and run the project.
+3. Compile and run the project.
 
 4.Follow the on-screen menu to manage your tasks.
 
